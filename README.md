@@ -1,6 +1,7 @@
 ## __< *Hello World* />__ 
 
 ### * Links
-   * *[LinkedIn](https://www.linkedin.com/in/sebin-francis-95b0981a7/)*
+   * *[Resume](https://sebinfrancis7.github.io/Resume/)*
+   * *[LinkedIn](www.linkedin.com/in/sebinfrancis)*
 
 

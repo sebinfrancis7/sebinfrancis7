@@ -1,7 +1,9 @@
 ## __< *Hello World !* />__ 
 <br>
 <h3> 🛠️ Languages and Tools:</h3>
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "cpp")
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 <h3>Connect with me 🤝</h3>   
    <a href="https://sebinfrancis7.github.io/portfolio/" target="_blank">
     <img alt="Website" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">

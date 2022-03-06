@@ -1,6 +1,5 @@
 ## __< *Hello World !* />__ 
 <br>
-
 <h3> 🛠️ Languages and Tools:</h3>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")
@@ -18,9 +17,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 <br>
-
+<h3>Github Stats 📊📈</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebinfrancis7&theme=rose_pine&show_icons=true" alt="sebinfrancis7" /></p>
+<br>
 <h3>Connect with me 🤝</h3>   
    <a href="https://sebinfrancis7.github.io/portfolio/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Portfolio-Website-white?style=for-the-badge">

@@ -20,7 +20,7 @@
 
 <h3>Connect with me 🤝</h3>   
    <a href="https://sebinfrancis7.github.io/portfolio/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Portfolio%20Website-.-white?style=for-the-badge">
+    <img alt="Website" src="https://img.shields.io/badge/Portfolio-Website-white?style=for-the-badge">
    </a>
    <a href="https://www.linkedin.com/in/sebinfrancis" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">

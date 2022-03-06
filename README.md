@@ -1,6 +1,6 @@
 ## __< *Hello World !* />__ 
 <br>
-<h3> 🛠️ Languages and Tools:</h3>
+<h2>Languages and Tools 🛠️ :</h2>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "JAVA")
@@ -18,10 +18,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
-<h3>Github Stats 📊📈</h3>
+<h2>Github Stats 📊📈 :</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebinfrancis7&theme=rose_pine&show_icons=true" alt="sebinfrancis7" /></p>
 <br>
-<h3>Connect with me 🤝</h3>   
+<h2>Connect with me 🤝 :</h2>   
    <a href="https://sebinfrancis7.github.io/portfolio/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Portfolio-Website-white?style=for-the-badge">
    </a>

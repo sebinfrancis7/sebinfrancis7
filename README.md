@@ -2,6 +2,7 @@
 <br>
 <h3> 🛠️ Languages and Tools:</h3>
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <h3>Connect with me 🤝</h3>   

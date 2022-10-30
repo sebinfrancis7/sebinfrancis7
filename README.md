@@ -5,7 +5,7 @@
 <br>
 
 <h2>Github Stats 📊📈 :</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebinfrancis7&theme=rose_pine&show_icons=true" alt="sebinfrancis7" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebinfrancis7&theme=rose_pine&show_icons=true&hide_border=true" alt="sebinfrancis7" /></p>
 <br>
 <h2>Connect with me 🤝 :</h2>   
    <a href="https://sebinfrancis7.github.io/portfolio/" target="_blank">
